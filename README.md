@@ -1,0 +1,4 @@
+mynewrepo
+=========
+
+A test repository
